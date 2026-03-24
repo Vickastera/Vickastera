@@ -61,4 +61,4 @@ INET
 ---
 ## 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/victoriacastera/) | [GitHub](https://github.com/Vickastera) | ✉️ victoriacastera@email.com
+[LinkedIn](https://www.linkedin.com/in/victoriacastera/) | [GitHub](https://github.com/Vickastera) | ✉️ victoriacastera019@gmail.com
